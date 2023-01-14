@@ -10,4 +10,16 @@
     --- Criar uma função recursiva que resolva p
     --- Criar uma função linear que resolva p
     
-  
+
+Para rodar o projeto:
+
+-> Instale o Java
+
+-> Instale o JDK (Java Development Kit)
+
+-> Abra o projeto na sua IDE
+
+-> Execute a classe Principal.java
+
+-> Siga as instruções das janelas do software
+
